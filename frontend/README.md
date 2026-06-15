@@ -9,6 +9,7 @@ Note Form:
 A form for adding or editing notes. It should include fields for the title and content of the note.
 
 Functionality:
+Create and maintain notes for each User.
 
 Authentication:
 Create the signup and sign in using Firebase.
